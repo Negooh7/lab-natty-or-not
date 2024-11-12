@@ -30,5 +30,5 @@ Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Para uma imagem, no meu ponto de vista, não tem muito desafio, basta encontrar uma boa IA criadora de imagens.
 
